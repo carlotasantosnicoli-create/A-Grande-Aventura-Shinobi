@@ -1,5 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&display=swap');
+
+
+
+body{
+background-color: black;
+color: aliceblue;
+display:flex;
+justify-content: center;
+align-items: center;
+font-family: "BBH Sans Bartle", sans-serif;
+font-size: 18px;
+}
+
+
+
+
 .img01{width: 90%;}
 
 button{background-color: black;
     color:coral;
 padding: 25px;}
+
